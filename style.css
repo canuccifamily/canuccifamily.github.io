@@ -168,7 +168,7 @@ body {
 	text-transform: capitalize;
 }
 #body > ul li p {
-	color: #464646;
+	color: white;
 	font-size: 12px;
 	line-height: 24px;
 	margin: 0;
@@ -224,6 +224,10 @@ body {
 	margin: 0;
 	padding: 25px 10px 40px;
 	text-transform: capitalize;
+}
+#body img {
+	width:110px;
+	height:110px; 
 }
 #body > b {
 	color: white;
